@@ -22,16 +22,16 @@ Currently, the frontend development is **completed**, and backend integration is
 ### 1. Login Page
 Users can log in using their email and password.
 
-<img src="./public/assets/README/loginCapture.png" alt="Login Page" style="max-width: 80%; height: auto;">
+<img src="./client/public/assets/README/loginCapture.png" alt="Login Page" style="max-width: 80%; height: auto;">
 
 ### 2. Register Page
 New users can sign up by entering their details.
 
-<img src="./public/assets/README/registerCapture.png" alt="Login Page" style="max-width: 80%; height: auto;">
+<img src="./client/public/assets/README/registerCapture.png" alt="Login Page" style="max-width: 80%; height: auto;">
 ### 3. Dashboard (Frontend Only)
 Displays user statistics, recent activity, and notifications.
 
-<img src="./public/assets/README/dashboardCapture.png" alt="Login Page" style="max-width: 80%; height: auto;">
+<img src="./client/public/assets/README/dashboardCapture.png" alt="Login Page" style="max-width: 80%; height: auto;">
 ## Installation
 
 ### Frontend Setup
